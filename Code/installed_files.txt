@@ -1,0 +1,8 @@
+/home/dante/.local/lib/python2.7/site-packages/GWFrames/Extrapolation.py
+/home/dante/.local/lib/python2.7/site-packages/GWFrames/__init__.py
+/home/dante/.local/lib/python2.7/site-packages/GWFrames/plot.py
+/home/dante/.local/lib/python2.7/site-packages/GWFrames/Extrapolation.pyc
+/home/dante/.local/lib/python2.7/site-packages/GWFrames/__init__.pyc
+/home/dante/.local/lib/python2.7/site-packages/GWFrames/plot.pyc
+/home/dante/.local/lib/python2.7/site-packages/_GWFrames.so
+/home/dante/.local/lib/python2.7/site-packages/GWFrames-0.0.0.egg-info
